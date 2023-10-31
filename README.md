@@ -1,6 +1,6 @@
 # Spyware
 
-Hey you all this is Ashutosh Behera. I have developed this advanced spyware tool to demonstrate the working of the spyware and how it tries to steal user's data.
+Hey you all this is Sunil Kumar. I have developed this advanced spyware tool to demonstrate the working of the spyware and how it tries to steal user's data.
 
 DISCLAMIER
 
